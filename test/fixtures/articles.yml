@@ -2,12 +2,14 @@
 
 one:
   title: MyString
-  author: MyString
+  authorlname: MyString
+  authorfname: MyString
   publisher: MyString
-  year: 2014-12-05
+  year: 2014-12-08
 
 two:
   title: MyString
-  author: MyString
+  authorlname: MyString
+  authorfname: MyString
   publisher: MyString
-  year: 2014-12-05
+  year: 2014-12-08

@@ -1,4 +1,5 @@
 class Syllabus < ActiveRecord::Base
-  has_many :articles, :through => :contains
-  has_many :contains
+  belongs_to :school
+  has_many :artilces, :through => :assigns
+  has_many :assigns
 end

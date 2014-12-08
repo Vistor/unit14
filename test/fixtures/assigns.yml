@@ -1,9 +1,9 @@
 # Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
 
 one:
-  year: 2014-12-08
-  school_id: 
+  syllabus_id: 
+  article_id: 
 
 two:
-  year: 2014-12-08
-  school_id: 
+  syllabus_id: 
+  article_id: 
